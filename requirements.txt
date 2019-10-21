@@ -102,5 +102,5 @@ txaio==2.8.2
 urllib3==1.22
 wcwidth==0.1.7
 webencodings==0.5.1
-Werkzeug==0.12.2
+Werkzeug==0.15.3
 zope.interface==4.4.3
