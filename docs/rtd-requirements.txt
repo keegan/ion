@@ -97,7 +97,7 @@ sphinx-bootstrap-theme==0.6.0
 sphinxcontrib-websupport==1.0.1
 sqlparse==0.2.4
 traitlets==4.3.2
-Twisted==17.9.0
+Twisted==22.4.0
 txaio==2.8.2
 urllib3==1.22
 wcwidth==0.1.7
